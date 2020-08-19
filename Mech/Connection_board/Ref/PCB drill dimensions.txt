@@ -1,0 +1,4 @@
+Connector drills in board
+
+Diameter = 1.8796
+Drill = 1.016
